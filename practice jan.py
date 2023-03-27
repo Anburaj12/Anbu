@@ -1,1 +1,1 @@
-print("what is thiz paww??????")
+print("what")
