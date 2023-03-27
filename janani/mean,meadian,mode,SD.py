@@ -40,4 +40,4 @@ print("standard deviation:",dev)
 #changes made
 # hi  i am janani
 
-Hi Anbu
+#Hi Anbu
